@@ -10,7 +10,7 @@ This chart highlights the **artists who generated the highest total revenue** ba
 **Insight:**  
 Artists like **Ieom Maiden**, **U2** and **Metallica** consistently appear among the top sellers, showing the strong influence of classic rock artists in the store's catalog.
 
-![Top 10 Artists](top10_artists.png)
+![Top 10 Artists](top10_artists.png)https://github.com/Monishab3/Chinook-database-analysis/blob/main/Top%2010%20Artists.png
 
 ###  Top 10 Genres by Number of Tracks
 

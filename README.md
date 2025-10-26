@@ -19,7 +19,7 @@ This visualisation shows the **most common music genres** in the Chinook databas
 **Insight:**  
 Genres such as **Rock**, **Latin** and **Metal** dominate the catalog, indicating that the store’s inventory heavily leans toward rock and its subgenres. 
 
-![Top 10 Genres](top10_genres.png)
+![Top 10 Genres](top10_genres.png)https://github.com/Monishab3/Chinook-database-analysis/blob/main/Top%2010%20Genres%20by%20number%20of%20tracks.png
 
 ###  Tools Used
 - **SQLite** — to query the Chinook database  

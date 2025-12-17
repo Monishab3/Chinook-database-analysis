@@ -28,7 +28,7 @@ Genres such as **Rock**, **Latin** and **Metal** dominate the catalog, indicatin
 - **Python** — as the main analysis language
 
 ###  Conclusion
-This mini-project demonstrates how to:
+This project demonstrates how to:
 - Extract and aggregate data from a relational database
 - Analyze business insights (sales, genres, trends)
 - Visualise findings using Python data tools
